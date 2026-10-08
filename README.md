@@ -1,3 +1,4 @@
-英雄无敌3 入门技巧
-
-《Tribute to Strategists》与 《Heroes3Strategists》的内容是相同的，区别在于第二个文件更适合打印成纸质的，因为有的页面被旋转了，更适合打印。
+## 英雄无敌3 入门到精通
+### 说明
+1. 《英雄无敌3知识整理》包含了入门知识。
+2. 《Tribute to Strategists》与 《Heroes3Strategists》的内容是相同的，区别在于第二个文件更适合打印成纸质的，因为有的页面被旋转了，更适合打印。
